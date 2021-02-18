@@ -3,8 +3,8 @@ import pygame as pg
 Caption = '超级玛丽！'
 
 ScreenSize = (860, 600)
-UpdateFPS = 280
-RenderFPS = 150
+UpdateFPS = 100
+RenderFPS = 60
 
 ImageDir                = 'assets/image'
 SoundsDir               = 'assets/sound'
