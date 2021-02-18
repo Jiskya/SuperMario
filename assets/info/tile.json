@@ -1,0 +1,19 @@
+{
+    "image_name": "tile_set",
+    "brick":{
+        "first": [
+            0,0,16,16
+        ],
+        "size":[
+            6,8
+        ]
+    },
+    "box":{
+        "first": [
+            384,0,16,16
+        ],
+        "box_num":4,
+        "coin_num":9,
+        "row_num":4
+    }
+}

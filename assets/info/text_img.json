@@ -1,0 +1,34 @@
+{
+    "image_name": "text_images",
+
+    "text":{
+        "colorkey": [
+            92,
+            148,
+            252
+        ],
+        "alpha": [
+            3,230,7,7
+        ],
+        "alpha_span":[
+            1,1
+        ],
+        "alpha_row_num":16,
+        "alpha_rows":3,
+        "alpha_lastrow_num":4,
+        "copy_right": [
+            36,246,8,8
+        ],
+        "dash":[
+            68,247,6,6
+        ],
+        "multi":[
+            75,247,7,7
+        ],
+        "exclam":[
+            92,246,6,8
+        ]
+        
+    }
+
+}
